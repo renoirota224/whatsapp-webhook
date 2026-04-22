@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-prospects-webhook",
+  "version": "1.0.0",
+  "description": "WhatsApp webhook → Google Sheets pour RotaGaming",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^128.0.0"
+  }
+}
